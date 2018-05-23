@@ -1,0 +1,6 @@
+hub Primate miRNAs
+shortLabel Primate miRNAs from miRBase
+longLabel Experimentally validated primate miRNAs from miRBase
+genomesFile genomes.txt
+email kylie.huch@gmail.com
+descriptionUrl
