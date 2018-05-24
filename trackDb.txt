@@ -1,0 +1,17 @@
+###########################################
+track novel_micros
+type BED
+bigDataUrl 
+shortLabel
+longLabel
+
+
+
+###########################################
+track novel_miRNA
+type BED
+compositeTrack on
+shortLabel Novel miRNA
+longLabel Novel human microRNA
+visibility pack
+priority 1
