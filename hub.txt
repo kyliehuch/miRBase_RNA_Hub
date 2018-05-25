@@ -1,5 +1,5 @@
 hub Novel miRNAs
-shortLabel Novel mature miRNAs
+shortLabel Novel miRNAs
 longLabel Novel microRNA precursors, mature miRNAs and their conservation
 genomesFile genomes.txt
 email kylie.huch@gmail.com
