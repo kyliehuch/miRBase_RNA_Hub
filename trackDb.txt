@@ -1,15 +1,17 @@
 ###########################################
 track novel_micros
-type BED
-bigDataUrl 
-shortLabel
-longLabel
+type bigBed .
+bigDataUrl bigBedfiles/human.bb
+shortLabel Novel human miRNA
+longLabel Novel human micro RNA precursors and mature sequences
+searchIndex name
+labelFields name
 
 
 
 ###########################################
 track novel_miRNA
-type BED
+type bigBed
 compositeTrack on
 shortLabel Novel miRNA
 longLabel Novel human microRNA
