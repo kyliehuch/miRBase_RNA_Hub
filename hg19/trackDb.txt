@@ -5,6 +5,7 @@ shortLabel Novel miRNAs
 longLabel Novel microRNA precursors, mature miRNAs and their conservation
 searchIndex name
 labelFields name
+labelOnFeature off
 visibility full
 thickDrawItem off
 
