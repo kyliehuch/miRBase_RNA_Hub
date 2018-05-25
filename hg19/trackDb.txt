@@ -5,7 +5,9 @@ shortLabel Novel miRNAs
 longLabel Novel microRNA precursors, mature miRNAs and their conservation
 searchIndex name
 labelFields name
+labelOnFeature on
 visibility full
+thickDrawItem off
 
     track Human
     parent Novel_miRNAs
@@ -14,6 +16,7 @@ visibility full
     shortLabel Human
     longLabel Novel human miRNAs
     visibility full
+    priority 1
 
     track Human_specific
     parent Novel_miRNAs
@@ -22,6 +25,7 @@ visibility full
     shortLabel Human specific
     longLabel Novel human specific miRNAs
     visibility full
+    priority 2
 
     track Chimpanzee
     parent Novel_miRNAs
@@ -30,6 +34,7 @@ visibility full
     shortLabel Chimpanzee
     longLabel Novel miRNAs conserved in chimpanzees
     visibility full
+    priority 3
 
     track Gorilla
     parent Novel_miRNAs
@@ -38,6 +43,7 @@ visibility full
     shortLabel Gorilla
     longLabel Novel miRNAs conserved in gorillas
     visibility full
+    priority 4
 
     track Orangutan
     parent Novel_miRNAs
@@ -46,6 +52,7 @@ visibility full
     shortLabel Orangutan
     longLabel Novel miRNAs conserved in orangutans
     visibility full
+    priority 5
 
     track Macaque
     parent Novel_miRNAs
@@ -54,6 +61,7 @@ visibility full
     shortLabel Macaque
     longLabel Novel miRNAs conserved in macaques
     visibility full
+    priority 6
 
     track Mouse
     parent Novel_miRNAs
@@ -62,3 +70,4 @@ visibility full
     shortLabel Mouse
     longLabel Novel miRNAs conserved in mice
     visibility full
+    priority 7
