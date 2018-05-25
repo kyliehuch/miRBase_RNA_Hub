@@ -8,57 +8,57 @@ labelFields name
 visibility full
 
     track Human
-    parent novel_miRNAs
+    parent Novel_miRNAs
     type bigBed 8 .
-    bigDataUrl bigBedfiles/humanAll.bb
+    bigDataUrl ../bigBedfiles/humanAll.bb
     shortLabel Human
     longLabel Novel human miRNAs
     visibility full
 
     track Human_specific
-    parent novel_miRNAs
+    parent Novel_miRNAs
     type bigBed 8 .
-    bigDataUrl bigBedfiles/humanSpec.bb
+    bigDataUrl ../bigBedfiles/humanSpec.bb
     shortLabel Human specific
     longLabel Novel human specific miRNAs
     visibility full
 
     track Chimpanzee
-    parent novel_miRNAs
+    parent Novel_miRNAs
     type bigBed 8 .
-    bigDataUrl bigBedfiles/consChimp.bb
+    bigDataUrl ../bigBedfiles/consChimp.bb
     shortLabel Chimpanzee
     longLabel Novel miRNAs conserved in chimpanzees
     visibility full
 
     track Gorilla
-    parent novel_miRNAs
+    parent Novel_miRNAs
     type bigBed 8 .
-    bigDataUrl bigBedfiles/consGor.bb
+    bigDataUrl ../bigBedfiles/consGor.bb
     shortLabel Gorilla
     longLabel Novel miRNAs conserved in gorillas
     visibility full
 
     track Orangutan
-    parent novel_miRNAs
+    parent Novel_miRNAs
     type bigBed 8 .
-    bigDataUrl bigBedfiles/consPongo.bb
+    bigDataUrl ../bigBedfiles/consPongo.bb
     shortLabel Orangutan
     longLabel Novel miRNAs conserved in orangutans
     visibility full
 
     track Macaque
-    parent novel_miRNAs
+    parent Novel_miRNAs
     type bigBed 8 .
-    bigDataUrl bigBedfiles/consMaca.bb
+    bigDataUrl ../bigBedfiles/consMaca.bb
     shortLabel Macaque
     longLabel Novel miRNAs conserved in macaques
     visibility full
 
     track Mouse
-    parent novel_miRNAs
+    parent Novel_miRNAs
     type bigBed 8 .
-    bigDataUrl bigBedfiles/consMouse.bb
+    bigDataUrl ../bigBedfiles/consMouse.bb
     shortLabel Mouse
     longLabel Novel miRNAs conserved in mice
     visibility full
